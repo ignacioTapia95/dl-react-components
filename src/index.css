@@ -1,0 +1,52 @@
+body{
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+  width: 400px;
+  border-radius: 40px;
+  padding: 40px;
+}
+
+.logos{
+  display: flex;
+}
+
+.logos img{
+  width: 50px;
+  margin: 10px;
+}
+
+
+.formulario{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.form-group{
+  margin: 10px;
+  width: 100%;
+}
+
+.btn{
+  width: 100%;
+  margin: 10px;
+}
+
+.alert{
+  width: 100%;
+  margin: 10px;
+}
