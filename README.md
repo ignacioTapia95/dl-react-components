@@ -2,9 +2,9 @@
 
 ### Instrucciones de Instalación y Ejecución
 
-´´´bash
+```bash
 git clone https://github.com/ignacioTapia95/dl-react-components
 cd dl-react-components
 npm install
 npm run dev
-´´´
+```
